@@ -1,0 +1,56 @@
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\App.g.cs
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.cache
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.lref
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\MainWindow.baml
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.g.resources
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\kim_f\source\repos\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\App.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.lref
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\MainWindow.baml
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator.g.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\As4\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\App.g.cs
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.cache
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.lref
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator.pdb
+C:\Users\kim_f\Documents\As4\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\kim_f\Documents\As4\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\kim_f\Documents\As4\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\MainWindow.baml
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator.g.resources
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\kim_f\Documents\As4\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator.csprojAssemblyReference.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\MainWindow.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\App.g.cs
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator_MarkupCompile.lref
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\MainWindow.baml
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator.g.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\kim_f\OneDrive\Desktop\Computer Application Development\02 - Software Development Techniques\Group 5 Assignments\bmiCalculator\BMICalculator\obj\Debug\BMICalculator.pdb
